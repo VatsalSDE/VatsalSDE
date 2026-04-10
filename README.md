@@ -79,5 +79,3 @@ Groq (Llama 3.3) | Gemini API | Prompt Engineering | RAG (Basics)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=VatsalSDE&theme=tokyonight)
 
 ---
-
-⭐️ *“Consistency + Real Projects = 10 LPA+ Backend Engineer”*
