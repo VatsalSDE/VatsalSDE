@@ -1,81 +1,203 @@
 <h1 align="center">Hi 👋, I'm Vatsal Rathi</h1>
-<h3 align="center">Full Stack Developer | Java Backend Learner 🚀</h3>
+
+<h3 align="center">
+Java Backend Engineer in Progress 🚀 | Backend Intern @ Motadata | DSA Enthusiast
+</h3>
+
+<p align="center">
+Building scalable backend systems • Learning every day • Turning ideas into production-ready software
+</p>
 
 ---
 
-## 🚀 About Me
-- 💻 Full-Stack Developer with hands-on experience in MERN stack
-- 🎓 Computer Engineering Student (GPA: 8.12)
-- 🔥 Passionate about building scalable backend systems
-- 🚀 Currently focused on becoming **industry-ready backend engineer**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,docker,mysql,postgres,mongodb,linux,git,github,aws,react,nodejs,maven,intellij&theme=dark" />
+</p>
 
 ---
 
-## 🧠 Currently Learning
-- ☕ Java Backend Development
-- 🌱 Spring & Spring Boot
-- 🧩 Microservices Architecture
-- 📩 Apache Kafka (Event-driven systems)
-- 🐳 Containerization (Docker)
+# 🚀 About Me
+
+* 🎓 Computer Engineering Student (CGPA: **8.12**)
+* 💼 Backend Intern @ **Motadata** (ObserveOps Team)
+* ☕ Passionate about Java Backend Development
+* 🖥️ Working on real-world Monitoring & Observability Systems
+* 📚 Constantly improving through hands-on projects and DSA
+* 🎯 Aspiring to become a Production-Ready Java Backend Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Currently Learning
+
+* ☕ Advanced Core Java (Collections, Multithreading, JVM Internals)
+* ⚡ Vert.x Framework
+* 🌱 Spring Framework & Spring Boot
+* 🧩 Microservices Architecture
+* 📨 Apache Kafka
+* 🔄 ZeroMQ (ZMQ)
+* 📡 NSQ Messaging
+* 🌐 Socket Programming (TCP/UDP)
+* 🐧 Linux Internals & System Programming
+* 🌍 Computer Networking (TCP/IP, HTTP, DNS, SNMP)
+* 🧠 Operating System Fundamentals
+* 🏗️ System Design Fundamentals
+* 🐳 Docker & Containerization
+* ☁️ AWS Basics
+* 📊 Monitoring & Observability Systems
+* 📈 Data Structures & Algorithms (LeetCode)
+
+---
+
+# 🎯 Current Focus
+
+* 🚀 Building backend applications using Java
+* ⚡ Working with Vert.x and event-driven architectures
+* 📊 Understanding Monitoring & Observability Systems
+* 🔍 Exploring Linux, Operating Systems, and Computer Networking
+* 🌐 Learning Socket Programming and distributed communication
+* 📦 Writing clean, scalable, and maintainable Java code
+* 🧩 Strengthening DSA through consistent LeetCode practice
+
+---
+
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
-JavaScript | TypeScript | Java | Python | SQL | C
 
-### 🌐 Frontend
-React.js | Redux Toolkit | Tailwind CSS | HTML | CSS
+* Java
+* JavaScript
+* Python
+* SQL
+* C
 
 ### ⚙️ Backend
-Node.js | Express.js | REST APIs | Socket.IO
+
+* Core Java
+* Node.js
+* Express.js
+* REST APIs
+* Socket.IO
+
+### 🌐 Frontend
+
+* React.js
+* Redux Toolkit
+* Tailwind CSS
+* HTML5
+* CSS3
 
 ### 🗄️ Databases
-MongoDB | PostgreSQL
 
-### ☁️ Cloud & DevOps
-Docker | AWS (EC2, S3) | CI/CD (GitHub Actions)
+* MySQL
+* PostgreSQL
+* MongoDB
 
-### 🤖 AI Integration
-Groq (Llama 3.3) | Gemini API | Prompt Engineering | RAG (Basics)
+### ☁️ DevOps & Tools
 
----
-
-## 🚀 Projects
-
-### 🔹 PrepBridge – AI Interview Prep Platform
-- AI JD-matching microservice using LLM
-- Real-time analytics for user progress
-- Peer interaction using Socket.IO
-
-### 🔹 INVENZA – AI ERP System
-- GST billing + inventory management system
-- AI chatbot for business queries
-- 20+ REST APIs with JWT authentication
+* Docker
+* AWS (EC2, S3)
+* Git
+* GitHub
+* Maven
+* IntelliJ IDEA
+* VS Code
 
 ---
 
-## 🏆 Achievements
-- 🥇 1st Position – Techno Tesla 1.0
-- 🏆 Top 10 – Nexathon Hackathon
-- 🚀 Top 50 / 800+ – Odoo Hackathon
+# 🚀 Featured Projects
+
+## 🔹 Java Monitoring System *(Currently Building)*
+
+A console-based monitoring system inspired by real-world observability platforms.
+
+### Features
+
+* Server Management
+* Health Monitoring
+* Java Collections Framework
+* Exception Handling
+* Object-Oriented Programming
+* File Handling
+* Multithreading *(Coming Soon)*
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: dso99315@gmail.com
-- 💼 LinkedIn: (Add your link)
-- 💻 GitHub: https://github.com/VatsalSDE
+## 🔹 PrepBridge – AI Interview Preparation Platform
+
+* AI-powered JD Matching
+* Resume Analysis
+* Real-time Analytics
+* Peer Interaction using Socket.IO
 
 ---
 
-## ⚡ GitHub Stats
-![Vatsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VatsalSDE&show_icons=true&theme=tokyonight)
+## 🔹 INVENZA – AI ERP System
+
+* GST Billing
+* Inventory Management
+* JWT Authentication
+* AI Business Assistant
+* 20+ REST APIs
 
 ---
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=VatsalSDE&theme=tokyonight)
+# 🏆 Achievements
+
+🥇 1st Position — Techno Tesla 1.0
+
+🏆 Top 10 — Nexathon Hackathon
+
+🚀 Top 50 / 800+ — Odoo Hackathon
 
 ---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VatsalSDE&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalSDE&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VatsalSDE&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Vatsal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VatsalSDE\&theme=tokyo-night)](https://github.com/VatsalSDE)
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VatsalSDE?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+**[dso99315@gmail.com](mailto:dso99315@gmail.com)**
+
+💼 **LinkedIn**
+**https://www.linkedin.com/in/vatsal-rathi-994479224/**
+
+💻 **GitHub**
+**https://github.com/VatsalSDE**
+
+🧠 **LeetCode**
+**https://leetcode.com/u/VatsalSDE/**
+
+---
+
+<p align="center">
+  <b>⭐ Code • Learn • Build • Repeat ⭐</b>
+</p>
