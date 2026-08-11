@@ -193,8 +193,8 @@ A console-based monitoring system inspired by real-world observability platforms
 💻 **GitHub**
 **https://github.com/VatsalSDE**
 
-🧠 **LeetCode**
-**https://leetcode.com/u/VatsalSDE/**
+📊 **Codolio**  
+**https://codolio.com/profile/VatsalSDE**
 
 ---
 
